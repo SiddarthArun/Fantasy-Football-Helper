@@ -1,7 +1,7 @@
 # 🏈 Fantasy Football ML App
 
 This project applies machine learning to a decade of NFL data (2014–2024) to provide insights and predictions for fantasy football. It combines clustering, regression, and statistical modeling to evaluate players, project performance, and rank skill positions.
-Built with Python, scikit-learn, pandas, matplotlib, and Streamlit, the app enables users to explore data-driven fantasy insights interactively.
+Built with Python, scikit-learn, pandas, matplotlib, and Streamlit, the app enables users to explore data-driven fantasy insights interactively. IMPORTANT - This tool only covers skill positions: WR, RB, and TE. You will not find any data for QBs, Defenses, or Kickers here.
 
 ## 🚀 Features
 🔎 Player Comparisons & Career Trajectories
